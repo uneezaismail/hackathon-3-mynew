@@ -39,7 +39,7 @@ async function importData() {
     console.log('Migrating data, please wait...');
 
     // Fetching product data from your local API
-    const response = await axios.get('http://localhost:3000/api/products');
+    const response = await axios.get('https://hackathon-3-mynew.vercel.app/api/products');
     const products = response.data.data;
     console.log('Products fetched: ', products);
 
@@ -63,21 +63,21 @@ if (product.images && product.images.length > 0) {
 
       const sanityProduct = {
         _type: 'product',
-        product_id: product.product_id, // Using product_id as the _id for the document in Sanity
+        product_id: product.product_id, 
         productName: product.name,
         description: product.description,
         price: product.price,
-        category: product.categories || [], // Array of categories
-        tags: product.tags || [], // Array of tags
-        discountPercentage: product.discountPercentage || 0, // Discount percentage
+        category: product.categories || [], 
+        tags: product.tags || [], 
+        discountPercentage: product.discountPercentage || 0,
         colors: Array.isArray(product.color)
           ? product.color
           : product.color
           ? [product.color]
-          : [], // Optional, in case color is a single string or array
-        sizes: product.sizes || [], // Array of sizes
-        inventory: product.stock || 0, // Stock count
-        images: imageRefs.length > 0 ? imageRefs : undefined, // Array of images
+          : [], 
+        sizes: product.sizes || [], 
+        inventory: product.stock || 0, 
+        images: imageRefs.length > 0 ? imageRefs : undefined, 
       };
 
       await client.create(sanityProduct);
