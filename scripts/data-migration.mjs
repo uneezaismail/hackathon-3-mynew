@@ -50,7 +50,7 @@ if (product.images && product.images.length > 0) {
     const imageRef = await uploadImageToSanity(imageUrl);
     if (imageRef) {
       imageRefs.push({
-        _key: `${product.product_id}-${imageUrl}`, // Ensure this value is unique
+        _key: `${product.product_id}-${imageUrl}`,
         _type: 'image',
         asset: {
           _type: 'reference',
@@ -77,10 +77,10 @@ if (product.images && product.images.length > 0) {
           : [], 
         sizes: product.sizes || [], 
         inventory: product.stock || 0, 
-        images: imageRefs.length > 0 ? imageRefs : undefined, 
         material:product.material,
-        dimenstion:product.dimenstion,
-        weight:product.weight
+        dimensions:product.dimensions,
+        weight:product.weight,
+        images: imageRefs.length > 0 ? imageRefs : undefined, 
       };
 
       await client.create(sanityProduct);
