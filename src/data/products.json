@@ -1,0 +1,254 @@
+[
+  {
+    "product_id": "1",
+    "name": "Waze Dining Chair",
+    "description": "The Waze Dining Chair is a beautifully crafted wing chair that combines classic elegance with practicality. Its high back provides exceptional support, making it perfect for extended periods of use",
+    "price": 35000,
+    "categories": ["Living Room Furniture", "Chairs", "Armchairs"],
+    "tags": ["Top Picks"],
+    "discountPercentage": 0,
+    "color": "Beige",
+    "sizes": ["Standard"],
+    "stock": 15,
+    "images": [
+      "https://interwood.pk/cdn/shop/files/Waze_Dining_Chair_580x_crop_center.png?v=1737118063",
+      "https://interwood.pk/cdn/shop/files/WazeDiningChair-1_580x_crop_center.jpg?v=1737118063",
+      "https://interwood.pk/cdn/shop/files/WazeDiningChair-2_580x_crop_center.jpg?v=1737118063",
+      "https://interwood.pk/cdn/shop/files/WazeDiningChair-2_580x_crop_center.jpg?v=1737118063"
+    ],
+    "material": "Wooden Frame, Fabric Upholstery",
+    "dimensions": "Width: 45 cm, Depth: 60 cm, Height: 95 cm",
+    "weight": "6 kg"
+  },
+  {
+    "product_id": "2",
+    "name": "Study Chair",
+    "description": "The Study Chair is an ergonomic and stylish armchair that features a bentwood frame and a soft, cushioned seat. Painted in a modern grey tone, it is designed to enhance your study or work environment.",
+    "price": 10000,
+    "categories": ["Living Room Furniture", "Chairs", "Armchairs"],
+    "tags": ["Top Picks"],
+    "discountPercentage": 15,
+    "color": "Grey Painted",
+    "sizes": ["Standard"],
+    "stock": 30,
+    "images": [
+      "https://interwood.pk/cdn/shop/products/study_chair_folding_f_580x_crop_center.jpg?v=1737118571",
+      "https://interwood.pk/cdn/shop/files/preview_images/Folding_Study_chair_160x_crop_center.jpg?v=1734346863",
+      "https://interwood.pk/cdn/shop/products/fg050000482-f677122-interwood-mobel_580x_crop_center.jpg?v=1737118571",
+      "https://interwood.pk/cdn/shop/products/folding-chair---fg050000482-6caba53-interwood-mobel_580x_crop_center.jpg?v=1737118571"
+    ],
+    "material": "Bentwood Frame, Cushioned Seat",
+    "dimensions": "Width: 50 cm, Depth: 55 cm, Height: 85 cm",
+    "weight": "5.5 kg"
+  },
+  {
+    "product_id": "3",
+    "name": "Anniston Sofa Set",
+    "description": "The Anniston Sofa Set exudes elegance and comfort with its classic design and durable construction. Upholstered in light beige fabric, this sofa set includes soft, plush cushions and removable covers for easy maintenance.",
+    "price": 180000,
+    "categories": ["Living Room Furniture", "Sofas"],
+    "tags": ["Top Picks"],
+    "discountPercentage": 0,
+    "color": "Light Beige",
+    "sizes": ["2-seater", "3-seater"],
+    "stock": 20,
+    "images": [
+      "https://interwood.pk/cdn/shop/files/Anniston_6c5deb66-bd7a-4352-9083-cbcd3ef14f16_580x_crop_center.jpg?v=1737118001",
+      "/Anniston-Sofa-Set-new.png",
+      "https://interwood.pk/cdn/shop/files/Anniston-closeup_580x_crop_center.jpg?v=1737118001",
+      "https://interwood.pk/cdn/shop/files/SofaAnniston3Seater_FabricWaffleBeige_2_4c25c89d-4008-47d0-93d7-7e749dd5aec1_580x_crop_center.jpg?v=1737118001"
+    ],
+    "material": "Fabric Upholstery, Wooden Frame",
+    "dimensions": "2-seater: Width: 150 cm, Depth: 85 cm, Height: 90 cm\n3-seater: Width: 210 cm, Depth: 85 cm, Height: 90 cm",
+    "weight": "30 kg (2-seater), 40 kg (3-seater)"
+  },
+  {
+    "product_id": "4",
+    "name": "Sydney King Size Bed Set",
+    "description": "Crafted from solid wood, the Sydney King Size Bed Set is a timeless piece designed to bring sophistication to your bedroom. Its sturdy frame and classic white finish ensure durability and a clean aesthetic.",
+    "price": 120000,
+    "categories": ["Bedroom Furniture", "Beds", "Bed Frames"],
+    "tags": ["Top Picks"],
+    "discountPercentage": 3,
+    "color": "White",
+    "sizes": ["Full", "Queen", "King"],
+    "stock": 25,
+    "images": [
+      "https://interwood.pk/cdn/shop/files/Sydney_Bed_Set_F-_1_b520efa3-6c94-4ff1-b2e5-bb92701af1e9_580x_crop_center.jpg?v=1737118049",
+      "https://interwood.pk/cdn/shop/files/Untitleddesign_9_580x_crop_center.jpg?v=1737118049",
+      "https://interwood.pk/cdn/shop/files/Untitleddesign_10_580x_crop_center.jpg?v=1737118049",
+      "https://interwood.pk/cdn/shop/files/WhatsApp-Image-2024-1_580x_crop_center.jpg?v=1737118050"
+    ],
+    "material": "Solid Wood",
+    "dimensions": "Full: Width: 140 cm, Depth: 200 cm, Height: 120 cm\nQueen: Width: 160 cm, Depth: 200 cm, Height: 120 cm\nKing: Width: 180 cm, Depth: 200 cm, Height: 120 cm",
+    "weight": "50 kg (Full), 55 kg (Queen), 60 kg (King)"
+  },
+  {
+    "product_id": "5",
+    "name": "MALM Dresser",
+    "description": "The MALM Dresser is a sleek and modern storage solution for your bedroom. Featuring a minimalist black-brown finish, it offers ample storage with its 4-drawer and 6-drawer options. Perfect for organizing clothes, accessories, or linens, this dresser combines functionality with contemporary design, adding elegance to any space.",
+    "price": 40000,
+    "categories": ["Bedroom Furniture", "Dressers"],
+    "tags": ["New Arrivals"],
+    "discountPercentage": 5,
+    "color": "Black-Brown",
+    "sizes": ["4-drawer", "6-drawer"],
+    "stock": 40,
+    "images": [
+      "https://interwood.pk/cdn/shop/files/WhatsApp-Image-2024-3_580x_crop_center.jpg?v=1737118987",
+      "https://interwood.pk/cdn/shop/products/sydney_dressing_table_580x_crop_center.jpg?v=1737118987",
+      "https://interwood.pk/cdn/shop/files/DresserTableSydneyInLightOakColour_580x_crop_center.jpg?v=1737118988",
+      "https://interwood.pk/cdn/shop/products/dresser-table-sydney-9e3e992-interwood-mobel_580x_crop_center.png?v=1737118988"
+    ],
+    "material": "Wood, MDF",
+    "dimensions": "4-drawer: Width: 80 cm, Depth: 40 cm, Height: 80 cm\n6-drawer: Width: 120 cm, Depth: 40 cm, Height: 80 cm",
+    "weight": "30 kg (4-drawer), 35 kg (6-drawer)"
+  },
+  {
+    "product_id": "6",
+    "name": "Wade Coffee Table",
+    "description": "The Wade Coffee Table is a minimalist masterpiece designed for modern living rooms. Its clean lines and smoked oak finish make it a versatile centerpiece, blending seamlessly with various décor styles.",
+    "price": 15000,
+    "categories": ["Living Room Furniture", "Coffee Tables", "Tables"],
+    "tags": ["Minimalist"],
+    "discountPercentage": 0,
+    "color": "Smoked Oak",
+    "sizes": ["Small", "Large"],
+    "stock": 50,
+    "images": [
+      "https://interwood.pk/cdn/shop/products/coffee-table-wade-visual_580x_crop_center.jpg?v=1737117713",
+      "https://interwood.pk/cdn/shop/products/coffee-table-wade_580x_crop_center.jpg?v=1737117713",
+      "https://interwood.pk/cdn/shop/products/coffee-table-wade_580x_crop_center.jpg?v=1737117713",
+      "https://interwood.pk/cdn/shop/products/wade-coffee-table_580x_crop_center.jpg?v=1737117713"
+    ],
+    "material": "Wood",
+    "dimensions": "Small: Width: 100 cm, Depth: 50 cm, Height: 45 cm\nLarge: Width: 120 cm, Depth: 60 cm, Height: 45 cm",
+    "weight": "10 kg (Small), 12 kg (Large)"
+  },
+  {
+    "product_id": "7",
+    "name": "Antique Wooden Mirror",
+    "description": "The Antique Wooden Mirror is a beautiful vintage-style mirror, framed with intricate woodwork. It adds charm and character to any space, whether it's your entryway, living room, or bedroom.",
+    "price": 25000,
+    "categories": ["Home Decor", "Mirrors"],
+    "tags": ["Home Essentials"],
+    "discountPercentage": 10,
+    "color": "Dark Brown",
+    "sizes": ["Medium", "Large"],
+    "stock": 35,
+    "images": [
+      "https://interwood.pk/cdn/shop/files/Antique_Wooden_Mirror_580x_crop_center.jpg?v=1737118422",
+      "https://interwood.pk/cdn/shop/products/antique-wooden-mirror-21_580x_crop_center.jpg?v=1737118422",
+      "https://interwood.pk/cdn/shop/files/Antique_Wood_Mirror_2_580x_crop_center.jpg?v=1737118422",
+      "https://interwood.pk/cdn/shop/products/Antique-Mirror-1_580x_crop_center.jpg?v=1737118422"
+    ],
+    "material": "Wooden Frame, Glass",
+    "dimensions": "Medium: Width: 70 cm, Height: 90 cm\nLarge: Width: 90 cm, Height: 120 cm",
+    "weight": "8 kg (Medium), 12 kg (Large)"
+  },
+  {
+    "product_id": "8",
+    "name": "Luxe King Size Bed",
+    "description": "Designed for comfort and style, the Luxe King Size Bed is upholstered with luxurious faux leather. The tufted headboard adds a touch of opulence, making this bed a stunning addition to any bedroom.",
+    "price": 150000,
+    "categories": ["Bedroom Furniture", "Beds", "Bed Frames"],
+    "tags": ["Premium", "Top Picks"],
+    "discountPercentage": 0,
+    "color": "Charcoal",
+    "sizes": ["King"],
+    "stock": 12,
+    "images": [
+      "https://interwood.pk/cdn/shop/files/Luxe-King-Size-Bed_580x_crop_center.jpg?v=1737118176",
+      "https://interwood.pk/cdn/shop/files/Luxe-King-Bed--Grey-Fabric-Bed_Front_580x_crop_center.jpg?v=1737118176",
+      "https://interwood.pk/cdn/shop/files/Luxe-King-Bed--Grey-Fabric-Bed_Closeup_580x_crop_center.jpg?v=1737118177",
+      "https://interwood.pk/cdn/shop/files/Luxe-King-Bed--Grey-Fabric-Bed_Back_580x_crop_center.jpg?v=1737118177"
+    ],
+    "material": "Faux Leather, Wood",
+    "dimensions": "Width: 210 cm, Depth: 220 cm, Height: 125 cm",
+    "weight": "70 kg"
+  },
+  {
+    "product_id": "9",
+    "name": "Espresso Side Table",
+    "description": "The Espresso Side Table is a minimalist and functional piece of furniture designed for small spaces. With its sleek finish and simple design, it's perfect for holding drinks or other small items.",
+    "price": 8000,
+    "categories": ["Living Room Furniture", "Tables"],
+    "tags": ["Affordable"],
+    "discountPercentage": 5,
+    "color": "Espresso",
+    "sizes": ["Small"],
+    "stock": 20,
+    "images": [
+      "https://interwood.pk/cdn/shop/files/ESPRESSO_SIDE_TABLE__580x_crop_center.jpg?v=1737117957",
+      "https://interwood.pk/cdn/shop/products/espresso_side_table_580x_crop_center.jpg?v=1737117957",
+      "https://interwood.pk/cdn/shop/products/espresso_side_table_2_580x_crop_center.jpg?v=1737117957",
+      "https://interwood.pk/cdn/shop/products/side_table_coffee_espresso_580x_crop_center.jpg?v=1737117957"
+    ],
+    "material": "Wood",
+    "dimensions": "Width: 45 cm, Depth: 45 cm, Height: 55 cm",
+    "weight": "5 kg"
+  },
+  {
+    "product_id": "10",
+    "name": "Urban Floor Lamp",
+    "description": "The Urban Floor Lamp combines sleek metal with a modern design to create a statement piece for your living room or office. Its adjustable head allows you to direct light exactly where you need it.",
+    "price": 12000,
+    "categories": ["Lighting", "Floor Lamps"],
+    "tags": ["Modern"],
+    "discountPercentage": 8,
+    "color": "Black",
+    "sizes": ["Standard"],
+    "stock": 25,
+    "images": [
+      "https://interwood.pk/cdn/shop/files/Urban_Floor_Lamp_580x_crop_center.jpg?v=1737118776",
+      "https://interwood.pk/cdn/shop/files/UrbanFloorLamp-Black_580x_crop_center.jpg?v=1737118776",
+      "https://interwood.pk/cdn/shop/files/urban-floor-lamp_580x_crop_center.jpg?v=1737118776",
+      "https://interwood.pk/cdn/shop/files/urban-floor-lamp-closeup_580x_crop_center.jpg?v=1737118776"
+    ],
+    "material": "Metal, Fabric",
+    "dimensions": "Width: 30 cm, Depth: 30 cm, Height: 170 cm",
+    "weight": "6 kg"
+  },
+  {
+    "product_id": "11",
+    "name": "Nordic Dining Table",
+    "description": "The Nordic Dining Table brings a minimalist yet functional design to your dining area. Made from solid oak, this table features clean lines and a durable surface, ideal for family meals or gatherings.",
+    "price": 28000,
+    "categories": ["Dining Room Furniture", "Dining Tables"],
+    "tags": ["Top Picks"],
+    "discountPercentage": 10,
+    "color": "Oak",
+    "sizes": ["Medium", "Large"],
+    "stock": 18,
+    "images": [
+      "https://interwood.pk/cdn/shop/products/nordic-dining-table-1_580x_crop_center.jpg?v=1737118185",
+      "https://interwood.pk/cdn/shop/files/Nordic_Dining_Table_1_580x_crop_center.jpg?v=1737118185",
+      "https://interwood.pk/cdn/shop/products/nordic-dining-table_580x_crop_center.jpg?v=1737118185",
+      "https://interwood.pk/cdn/shop/files/Nordic_Dining_Table--2_580x_crop_center.jpg?v=1737118185"
+    ],
+    "material": "Oak Wood",
+    "dimensions": "Medium: Width: 140 cm, Depth: 80 cm, Height: 75 cm\nLarge: Width: 180 cm, Depth: 90 cm, Height: 75 cm",
+    "weight": "20 kg (Medium), 25 kg (Large)"
+  },
+  {
+    "product_id": "12",
+    "name": "Luxe Wardrobe",
+    "description": "The Luxe Wardrobe is designed to store your clothes and accessories with style. Featuring sliding doors and ample interior space, it provides efficient organization for your bedroom or hallway.",
+    "price": 60000,
+    "categories": ["Bedroom Furniture", "Wardrobes"],
+    "tags": ["Home Essentials"],
+    "discountPercentage": 15,
+    "color": "White",
+    "sizes": ["Standard"],
+    "stock": 10,
+    "images": [
+      "https://interwood.pk/cdn/shop/files/Luxe-Wardrobe.jpg?v=1737118580",
+      "https://interwood.pk/cdn/shop/products/luxe-wardrobe_580x_crop_center.jpg?v=1737118580",
+      "https://interwood.pk/cdn/shop/files/wardrobe-closet_580x_crop_center.jpg?v=1737118580",
+      "https://interwood.pk/cdn/shop/files/Luxe-Wardrobe_580x_crop_center.jpg?v=1737118580"
+    ],
+    "material": "Wood",
+    "dimensions": "Width: 150 cm, Depth: 60 cm, Height: 200 cm",
+    "weight": "40 kg"
+  }
+]
