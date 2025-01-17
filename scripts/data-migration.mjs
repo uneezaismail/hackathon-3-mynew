@@ -78,6 +78,9 @@ if (product.images && product.images.length > 0) {
         sizes: product.sizes || [], 
         inventory: product.stock || 0, 
         images: imageRefs.length > 0 ? imageRefs : undefined, 
+        material:product.material,
+        dimenstion:product.dimenstion,
+        weight:product.weight
       };
 
       await client.create(sanityProduct);
