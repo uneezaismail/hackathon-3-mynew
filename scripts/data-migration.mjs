@@ -41,7 +41,7 @@ async function importData() {
     // Fetching product data from your local API
     const response = await axios.get('https://hackathon-3-mynew.vercel.app/api/products');
     const products = response.data.data;
-    console.log('Products fetched: ', products);
+    // console.log('Products fetched: ', products);
 
     for (const product of products) {
       let imageRefs = [];
@@ -50,7 +50,7 @@ if (product.images && product.images.length > 0) {
     const imageRef = await uploadImageToSanity(imageUrl);
     if (imageRef) {
       imageRefs.push({
-        _key: `${product.product_id}-${imageUrl}`,
+        _key: `${product.product_id}-${imageUrl}-${Date.now()}`,
         _type: 'image',
         asset: {
           _type: 'reference',
@@ -67,7 +67,6 @@ if (product.images && product.images.length > 0) {
         productName: product.name,
         description: product.description,
         price: product.price,
-        category: product.categories || [], 
         tags: product.tags || [], 
         discountPercentage: product.discountPercentage || 0,
         colors: Array.isArray(product.color)
@@ -82,11 +81,11 @@ if (product.images && product.images.length > 0) {
         weight:product.weight,
         images: imageRefs.length > 0 ? imageRefs : undefined, 
       };
-
       await client.create(sanityProduct);
     }
 
     console.log('Data migrated successfully!');
+    console.log(sanityProduct)
   } catch (error) {
     console.error('Error migrating data: ', error);
   }
